@@ -1,0 +1,95 @@
+{
+  "_comment": "Speaker notes + per-slide titles for OWASP Porto #13 – EBG13 (18 slides). Loaded by js/notes-loader.js. Sections: Welcome(0-1) · OWASP(2-3) · Porto Chapter(4-8) · Next(9-10) · News(11) · Today's Event(12-14) · Close(15-17).",
+  "slides": [
+    {
+      "index": 0,
+      "title": "Cover",
+      "notes": "Hold on the cover while people settle: OWASP Porto #13, EBG13, November 24th, 18:00, at the OERN temporary headquarters (Rua Dr. Alfredo Magalhães 8, 2nd floor). Venue, snacks and drinks by OERN."
+    },
+    {
+      "index": 1,
+      "title": "Welcome",
+      "notes": "Welcome everyone to the OWASP Porto Chapter meetup, #13, EBG13."
+    },
+    {
+      "index": 2,
+      "title": "About OWASP",
+      "notes": "One line on what OWASP is: a nonprofit improving software security through open-source projects, conferences and local chapters."
+    },
+    {
+      "index": 3,
+      "title": "Become a Member",
+      "notes": "Encourage membership; mention the corporate-supporter ask for companies in the room."
+    },
+    {
+      "index": 4,
+      "title": "Mission",
+      "notes": "Porto Chapter: why we exist and what we do. Keep it brief."
+    },
+    {
+      "index": 5,
+      "title": "Who Are We",
+      "notes": "Introduce the chapter leads and volunteers; invite the audience to get involved."
+    },
+    {
+      "index": 6,
+      "title": "Resources",
+      "notes": "Where to find us: site, email, LinkedIn, Luma (subscribe!), Slack and Instagram (both new), X. Meetup.com is retired; Luma is the place to subscribe."
+    },
+    {
+      "index": 7,
+      "title": "Event Archive",
+      "notes": "12 events held in Porto so far, from 2024 to July 2026. Point to the event-archive site for talks, speakers and photos."
+    },
+    {
+      "index": 8,
+      "title": "Call for Talks",
+      "notes": "We are always looking for speakers. Scan the QR or use the link."
+    },
+    {
+      "index": 9,
+      "title": "Name Riddle",
+      "notes": "Recap the previous one: #12 Cerberus, because capturing Cerberus was the twelfth labour of Hercules (painting: Zurbaran, Hercules and Cerberus, 1634, Prado). This time the cognome is EBG13. Leave the audience guessing; the feedback form asks for their theories. Do not reveal it tonight before the end."
+    },
+    {
+      "index": 10,
+      "title": "Next Meetup",
+      "notes": "Next meetup: tentatively January 13th, 2027, at INESC TEC. Date not final yet; watch Luma. Still welcome hosts and sponsors for future events."
+    },
+    {
+      "index": 11,
+      "title": "AppSec Days",
+      "notes": "AppSec Days Portugal 2026, Porto, Sep 23-24, in the numbers shown at the closing session: 430 registered attendees (56 from abroad, 19 countries), 56 CFP proposals, 15 talks in 2 tracks, 15 speakers incl. 2 keynotes (Lukas Weichselbaum, Petra Vukmirovic), 4 half-day workshops, CTF by xSTF.pt. Ask who was there and what they enjoyed; point them to the feedback form section about the conference."
+    },
+    {
+      "index": 12,
+      "title": "Today's Event",
+      "notes": "Divider. Hand over to today's programme."
+    },
+    {
+      "index": 13,
+      "title": "Supported By",
+      "notes": "Thank the Ordem dos Engenheiros Região Norte for hosting us at their temporary headquarters and for the snacks and drinks. Second time at OERN, after #06 The Farmer in 2025."
+    },
+    {
+      "index": 14,
+      "title": "Agenda",
+      "notes": "18:00 welcome · 18:15 Teresa Limpo (Performance Under Fire: decision-making under pressure) · 19:00 Milton Araújo (PHP2Shell, CVE-2026-109618, live demo) · 20:00 snacks and drinks."
+    },
+    {
+      "index": 15,
+      "title": "Thanks",
+      "notes": "Thank attendees; we hope they enjoy the event."
+    },
+    {
+      "index": 16,
+      "title": "Feedback",
+      "notes": "Ask everyone to fill the feedback form: scan the QR (https://forms.gle/vk1XH3rqRfCYugEX9). It also asks whether they went to AppSec Days and what they thought."
+    },
+    {
+      "index": 17,
+      "title": "Thank You",
+      "notes": "Close. Thank the speakers and OERN once more."
+    }
+  ]
+}
